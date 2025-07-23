@@ -41,6 +41,8 @@ Learning this tool set of व्याकरण is much like learning mathematic
 
 In the following articles --- which I shall write as and when time permits --- I will try to present bits and pieces of this field in a simplified way as per my understanding and capability. I myself am a student of Sanskrit and can make mistakes. Experts are free to correct my mistakes.
 
+Until then, why don't you check-out the etymological analysis of [[अन्वय]] that I am currently writing?
+
 [^1]: By words, he meant sounds. The original word used is शब्द which technically means sound.
 
 [^2]: A cosmic year, by all accounts, is much much longer than a 'normal' year.
