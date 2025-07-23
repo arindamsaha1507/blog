@@ -1,9 +1,8 @@
 ---
-title: Sanskrit Grammar is grander than what you probably think
+title: Grandness of Sanskrit Grammar Explained Briefly
 draft: false
 tags:
-- article
-
+  - article
 ---
 
 
@@ -16,9 +15,17 @@ So, typically, grammar assumes that there are words in a language, and then desc
 That is a *typical* grammar. So how does an *atypical* grammar look like. It begins --- as all good things do --- with a story, and a question.
 
 
-Once upon a time, perhaps in a galaxy far far away, इन्द्र asked his guru बृहस्पति, "How many words[^1] are there? I want to learn all of them." The guru asked "Meaningful words, or meaningless words?" "All of them.", replied the pupil. The teacher, thinking about the enormous task ahead of him, tried a reconciliatory approach. "You see, the meaningless words greatly outnumber the meaningful words. After all, try any combination of syllables, and mostly you would come up with a word that is utterly meaningless. So, let me list out all the meaningful words. And the ones that I have not listed out are all meaningless. Deal?" The pupil इन्द्र --- who incidentally is also sort of in charge of running the universe --- must have been elated by the proposition emphatically said, "Deal!"
-
-The pair sat there for a thousand cosmic years[^2] with बृहस्पति listing down all the words and इन्द्र diligently listening to all of them; still the list couldn't be completed[^3]. 
+> Once upon a time, perhaps in a galaxy far far away, इन्द्र asked his guru बृहस्पति, "How many words[^1] are there? I want to learn all of them." 
+> 
+> The guru asked "Meaningful words, or meaningless words?" 
+> 
+> "All of them.", replied the pupil. 
+> 
+> The teacher, thinking about the enormous task ahead of him, tried a reconciliatory approach. "You see, the meaningless words greatly outnumber the meaningful words. After all, try any combination of syllables, and mostly you would come up with a word that is utterly meaningless. So, let me list out all the meaningful words. And the ones that I have not listed out are all meaningless. Deal?" 
+> 
+> The pupil इन्द्र --- who incidentally is also sort of in charge of running the universe --- must have been elated by the proposition emphatically said, "Deal!"
+> 
+> The pair sat there for a thousand cosmic years[^2] with बृहस्पति listing down all the words and इन्द्र diligently listening to all of them; still the list couldn't be completed[^3]. 
 
 Moral of the story: the list of meaningful words is extremely long; and hence listing them in order to learn them is not an option for us mere mortals. But this leads to a huge problem. Language is made up of words; and if we do not know all the words, we may encounter an unknown word with an unknown meaning. What to do then? Communication, which is literally the only job of a language, will be in great jeopardy.
 
