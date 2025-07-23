@@ -24,10 +24,27 @@ Moral of the story: the list of meaningful words is extremely long; and hence li
 
 We need a system, don't we? A system by which we can reconstruct any meaningful word and associate it with its meaning. And that system in Sanskrit is called व्याकरण which is translated to 'grammar' in English simply because व्याकरण cannot be accurately translated.
 
-Just to impress upon the gravity of the task at hand,
+Just to impress upon the gravity of the task at hand, Sanskrit व्याकरण aims to be (and is) a tool set to create **all** the words in the language. And these are not only all the words that have been used in the past, but also all the new words that may be created in the future. And this *word generation capability* is what is truly powerful about this 'grammar'. 
+
+It takes a FINITE set of starting building blocks (about 2000 verb roots, 1000 suffixes, and a few hundred ready-made words) and a FINITE set of formulae/rules (less than 5000) to create an INFINITE number of possible words. Additionally, these rules
+- Tell you how these words interact with each other, change their forms and create sentences. Thus performing the task of what is 'normally' called **grammar**.
+- Define a well defined path of word formation, telling *why* a word has a particular form and not any other form. Thus performing the task of what is 'normally' called **etymology**.
+- Describes in fair detail how particular letters are to be pronounced. Thus performing the task of **phonetics**.
+- Slightly touches upon the regional variations between the language. Thus incorporating elements of **dialectology**.
+- Forms the basis of poetic metres and hence **prosody**.
+
+And that is why I say **"Sanskrit Grammar is grander than what you probably think"**.
+
+The way this is comprehensively done is a marvel to behold in itself. The basic idea is simple: Break the existing words into base and suffixes (प्रकृति and प्रत्यय) in a way that commonalities between the words is established. And this process is done so meticulously that it is able to describe the entire literature in Sanskrit spanning across at least 3.5 thousand years[^4].
+
+Learning this tool set of व्याकरण is much like learning mathematics. The depth of the subject is enormous, but learning even the basics can make you appreciate its beauty and utility.
+
+In the following articles --- which I shall write as and when time permits --- I will try to present bits and pieces of this field in a simplified way as per my understanding and capability. I myself am a student of Sanskrit and can make mistakes. Experts are free to correct my mistakes.
 
 [^1]: By words, he meant sounds. The original word used is शब्द which technically means sound.
 
 [^2]: A cosmic year, by all accounts, is much much longer than a 'normal' year.
 
 [^3]: Perhaps इन्द्र is still sitting there with बृहस्पति and hence all the current world order is... well... the way it is.
+
+[^4]: If you believe that the ऋग्वेद was compiled in 1500 BCE. Most Indian scholars believe it to be much older.
