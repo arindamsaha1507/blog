@@ -1,8 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Random Writing Space
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
-See the latest article on [[अन्वय]]
+See the latest article on [[अन्वय]] and [[Sanskrit Grammar is grander than what you probably think]].
